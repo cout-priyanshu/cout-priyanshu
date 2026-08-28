@@ -19,13 +19,22 @@ Email Me  ✉️ **pryanshu45dev@gmail.com** For Collaboration/Project or Anythi
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=cout-priyanshu&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=cout-priyanshu&theme=neon&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=cout-priyanshu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=cout-priyanshu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cout-priyanshu&theme=neon&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cout-priyanshu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cout-priyanshu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cout-priyanshu&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>ue&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
