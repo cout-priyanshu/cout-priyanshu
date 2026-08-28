@@ -30,12 +30,6 @@ Email Me  ✉️ **pryanshu45dev@gmail.com** For Collaboration/Project or Anythi
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cout-priyanshu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" height="180" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cout-priyanshu&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
