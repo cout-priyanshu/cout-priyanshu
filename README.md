@@ -5,9 +5,14 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-45dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
+ <a href="https://instagram.com/the__priyansh" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+</a>
+  <a href="https://x.com/cout_priyanshu" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
@@ -78,6 +83,24 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=cout-priyanshu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=cout-priyanshu&theme=neon&hide_border=false" width="48%" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=cout-priyanshu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" height="180" />
+</p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=asxayush&color=58A6FF&style=flat-square&label=Profile+Views)
 
 ###
